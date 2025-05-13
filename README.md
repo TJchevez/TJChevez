@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a self-taught developer with a background in marketing and copywriting. For over a year, I've been coding every day—drawn to the creativity, challenge, and constant growth it brings. I’m passionate about learning: whether it’s building new skills, reading self-development books, or picking up new languages. I believe in adapting quickly, staying compassionate, and staying relentless in the pursuit of what matters.
+I'm a self-taught developer with a background in marketing and copywriting. 
+For over a year, I've been coding every day! 
+I'm drawn to the creativity, challenge, and constant growth it brings. 
+I’m passionate about learning: whether it’s building new skills, reading self-development books, or picking up new languages. 
+I believe in adapting quickly, staying compassionate, and staying relentless in the pursuit of what matters.
 
 * 🌍  I'm based in New Hampshire
 * ✉️  You can contact me at [cheveztj@gmail.com](mailto:cheveztj@gmail.com)
