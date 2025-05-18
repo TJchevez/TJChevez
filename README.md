@@ -11,6 +11,7 @@ I believe in adapting quickly, staying compassionate, and staying relentless in 
 
 * 🌍  I'm based in New Hampshire
 * ✉️  You can contact me at [cheveztj@gmail.com](mailto:cheveztj@gmail.com)
+* 🖥️  See my profile at https://tjchevez.github.io/Portfolio/
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Fun projects that relate to art or writing.
 * ⚡  I write a lot of poetry, my nickname is TPOE
