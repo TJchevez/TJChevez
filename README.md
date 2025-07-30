@@ -8,7 +8,7 @@ I'm a self-taught developer with a background in marketing and copywriting. For 
 
 * 🌍  I'm based in New Hampshire
 * ✉️  You can contact me at [cheveztj@gmail.com](mailto:cheveztj@gmail.com)
-* 🧠  I'm learning TypeScript
+* 🧠  I'm learning C++
 * 🤝  I'm open to collaborating on fun projects that relate to art or writing
 * ⚡  I write a lot of poetry, my nickname is TPOE
 
