@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm a self-taught developer with a background in marketing and copywriting. For over a year, I've been coding every day. I'm drawn to the creativity, challenge, and constant growth it brings. I’m passionate about learning, whether it’s building new skills, reading self-development books, or picking up a new language. I believe in adapting quickly, staying compassionate, and staying relentless in the pursuit of what matters.
+I'm a frontend software engineer with a background in marketing, focused on building responsive, user-friendly web applications.
 
-* 🌍  I'm based in New Hampshire
-* ✉️  You can contact me at [cheveztj@gmail.com](mailto:cheveztj@gmail.com)
-* 🧠  I'm learning C++
-* 🤝  I'm open to collaborating on fun projects that relate to art, animations, or games
-* ⚡  I write a lot of poetry, my nickname is TPOE
+I work primarily with JavaScript, TypeScript, React, and Next.js, and I enjoy turning ideas and designs into polished digital experiences. My marketing background also gives me a different perspective on how products communicate with and guide their users.
+
+- 🌎 Based in New Hampshire
+- 💼 Open to frontend and software engineering opportunities
+- 🌱 Currently learning Python
+- 🤝 Open to collaborating on interesting web projects
+- ⚡ Outside of coding, I write poetry under the nickname TPOE
 
 ### Skills
 
